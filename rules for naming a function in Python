@@ -1,0 +1,9 @@
+Hey there! it’s good to know that you are interested in knowing the proper way of defining a function in Python rather than just opting the hit and trial method like some of the people out there.
+
+Listed below is a set of simple rules to define a function in Python:
+
+def keyword is used to start the Function Definition.
+def keyword is followed by function-name which is followed by parenthesis which contains the arguments passed by the user (if any).
+Colon is used at the end of the function name to indicate the start of function body from the next line.
+After adding the colon, start the body of the function with an indented block in the new line.
+The return statement sends a result object back to the caller. A return statement with no argument is equivalent to return none.
