@@ -1,0 +1,114 @@
+Top 10 Machine Learning Algorithms Examples
+
+Machine learning is a huge, huge market within Artificial Intelligence. It’s so successful and so ever-growing that a recent study actually reported that 25 percent of jobs are going to be replaced with machine learning algorithms within the next 10 years. According to Forbes, popular machine learning algorithms may replace a wealth of jobs in fields like manufacturing, transportation (hello, self-driving cars), architecture and healthcare.
+
+Of course, we don’t live in a futuristic world where AIs like C3PO can walk around, be our best friends and perform all the same tasks as a human but with more precision. We still need humans, if only to create artificial intelligence that actually works (unlike Microsoft’s racist chatbot). There are plenty of different types of machine learning algorithms that deeply enhance the world we live in. In fact, you probably use them every day.
+
+What Is a Machine Learning Algorithm?
+
+Machine Learning algorithms are used in a variety of applications including:
+
+Spam filtering
+Image tagging
+Self-driving cars
+Optical Character Recognition
+Predictions
+Anomaly detection
+Association rules and more
+We already know that machine learning is a subfield of Artificial Intelligence. This subfield teaches computers to perform certain tasks from a set of data without being explicitly programmed to do so. This is where the algorithm comes in. Machine learning uses an algorithm to translate sets of data into a certain task or answer. This could be anything from talking to an online chatbot or finding your way in Google Maps.
+
+Some machine learning algorithms are more popular than others. The following are the top 10 machine learning algorithms based on popularity and real-world usage.
+
+Artificial Neural Networks
+
+Artificial Neural Networks are named so because they’re based on the structure and functions of real biological neural networks. Information flows through the network and in response, the neural network changes based on the input and output. This machine learning algorithm is used in a number of ways:
+
+Download Our Project Specification Template
+
+Character recognition (understanding human handwriting and converting it to text)
+Image compression
+Stock market prediction
+Loan applications
+One of the most common uses for Artificial Neural Networks is speech recognition. If you’ve ever used Siri, you’ve probably used an ANN. These types of machine learning algorithms get better with more information – they’re constantly growing. Let’s be real: speech recognition has grown leaps and bounds in accuracy over the last five years.
+
+Naïve Bayes Classifier Algorithm
+
+The Naïve Bayes Classifier Algorithm is a classification machine learning algorithm that works off of the popular Bayes Theorem of Probability. It’s one of the most popular learning algorithms that groups similarities, and is usually used in the following ways:
+
+Disease prediction
+Document classification
+The Naïve Bayes Classifier may sound unfamiliar, but you’ve probably encountered it before. The most popular examples are your email spam filter and RSS feeds that filter news into specific categories (Politics, Entertainment, Sports, etc.). This algorithm is particularly useful if you have a moderate or large dataset, if the data has several attributes that can help classify it and if the attributes that describe a certain classification are conditionally independent.
+
+Support Vector Machine Learning Algorithm
+
+Support Vector Machine is one of the many examples of machine learning algorithms catered to classification. This is used for either classification or regression in instances where the set of data teaches the algorithm about specific classes so it can classify newly added data. SVM is constantly growing and evolving.
+
+SVM is commonly used in:
+
+Stock Market forecasting
+Risk assessment
+Most commonly, SVM is used to compare the performance of a stock with other stocks in the same sector. This helps companies make decisions about where they want to invest.
+
+K-Means Clustering Algorithm
+
+The K-Means Clustering Algorithm is one of the most popular machine learning examples. It is commonly used in the following applications:
+
+Search engines like Yahoo and Bing (to identify relevant results)
+Data libraries
+Google image search
+K-Means Clustering is a simple machine learning algorithm used for clustering, meaning it helps group together similar data sets. This could be anything from images and videos to text documents and web pages. For example, you’re searching Wikipedia for the word Apple. This could bring up results for both Apple, the technology company, and apple, the fruit. K-Means Clustering would group together results about the technology company apart from results about the fruit, so you can get meaningful results on the actual topic you want to read about.
+
+K-Nearest Neighbors Algorithm
+
+Like K-Means Clustering, K-Nearest Neighbors is another classification and regression machine learning algorithm. It’s most commonly used in:
+
+Pattern recognition (like to predict how cancer may spread)
+Statistical estimation (like to predict if someone may default on a loan)
+K-Nearest Neighbors makes predictions by searching through the whole dataset to find the most similar instances (the neighbors) and summarizing the output variable for those instances. Objects are classified by majority votes and assigned the class most common to its neighbors.
+
+Decision Tree Machine Learning Algorithm
+
+Decision Trees are graphical representations that show all possible outcomes of a decision based on certain conditions. It’s typically used for two things – to classify or to predict – and remains one of the best machine learning algorithms for classification. It has been used in the following ways:
+
+To help banks classify loan applicants and their probability of defaulting payments
+To help Gerber Products decide whether or not to use PVC in their baby products
+Identify at-risk patients and disease trends with Guardian, a tool developed by Rush University Medical Centre
+The decision tree algorithm falls into either Classification Trees or Regression Trees. Classification trees are the default and used to split data into different classes based on the response variable. Regression Trees are used when the target variable is continuous or numerical. This is typically used in a predictive nature. Because of the nature of the algorithm, if your data has errors, so will your decision tree. It’s best suited towards extensive, meticulously correct data.
+
+Apriori Machine Learning Algorithm
+
+Apriori algorithm is a data-mining machine learning algorithm that generates association rules for a given set of data. It has been used in everything from a college elective system that helps students choose classes to a database that discovers the social status of diabetic people. Its most popular applications include:
+
+Google auto-complete
+Amazon shopping recommendations
+Detecting adverse drug reactions
+Apriori works by using association rules from a given data set. These rules imply that if A occurs, B also occurs. For example, Wal-Mart actually used the Apriori algorithm to increase sales of beer. Wal-Mart studied their data to find that American males who bought diapers on Friday afternoons also frequently bought beer. They moved the beer next to the diapers, and sales increased.
+
+Apriori is beneficial in more than a couple ways. It also happens to be one of the easiest machine learning algorithms to implement.
+
+Linear Regression Machine Learning Algorithm
+
+Linear Regression is one of the most interpretable machine learning algorithms. It’s easy to explain to others and requires minimal tuning. This is perhaps why it’s one of the most popular algorithms. It can be used to:
+
+Estimate Sales
+Assess Risk
+Linear regression works by showing a relationship between two variables and how the change of one variable affects the other. This is why it’s so great in risk assessment and business. For example, health insurance brokers often use this algorithm to analyze the number of claims per customer against their age. If insurance companies find that older customers tended to make more claims, they increase rates for older customers. If they found that older customers didn’t have more accidents, they could lower the rates.
+
+Random Forest Machine Learning Algorithm
+
+Random Forests or Random Decision Forests are a machine learning method of classification and regression. You’ve probably seen them used in the following ways:
+
+To help banks predict high-risk loan applicants
+To predict failure or breakdown of a mechanical part
+To predict if a patient is likely to develop a chronic disease
+To predict the average number of social media shares on a post
+Its versatility is what gives this algorithm its popularity. Instead of using a single decision tree, Random Forest uses a multitude of decision trees to come up with a solid classification or prediction. This ensures more accurate classification because each decision tree is given slightly different data. These variables are very effective because they help preserve accuracy when data is missing. It’s also fairly resistant to outliers (majority always rules) and easily implemented in a couple lines of code.
+
+Logistic Regression
+
+No, Logistic Regression isn’t for regression problems. It’s actually for classification tasks. The algorithm applies a logistic function to a combination of features which predicts the outcome of a dependent variable. Of course, it wouldn’t be true to the name if the variable wasn’t based on already predicted variables. It’s split up into three categories:
+
+Binary Logistic Regression
+Multi-nominal Logistic Regression
+Ordinal Logistic Regression
+Binary Logistic Regression is most commonly used when there are two possible outcomes (yes or no; pass or fail). This can help in ways such as predicting if a student is likely to pass or fail a course or predicting if a tumor is cancerous or not. Multi-nominal Logistic Regression has three or more outcomes with no order, and Ordinal Logistic Regression has three or more outcomes with a natural ordering.
