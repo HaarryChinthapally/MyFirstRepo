@@ -1,0 +1,235 @@
+Q-21. Write An SQL Query To Fetch The Count Of Employees Working In The Department ‘Admin’.
+Ans.
+
+The required query is:
+
+
+
+Q-22. Write An SQL Query To Fetch Worker Names With Salaries >= 50000 And <= 100000.
+Ans.
+
+The required query is:
+
+
+Q-23. Write An SQL Query To Fetch The No. Of Workers For Each Department In The Descending Order.
+Ans.
+
+The required query is:
+
+
+Q-24. Write An SQL Query To Print Details Of The Workers Who Are Also Managers.
+Ans.
+
+The required query is:
+
+
+ 
+
+Q-25. Write An SQL Query To Fetch Duplicate Records Having Matching Data In Some Fields Of A Table.
+Ans.
+
+The required query is:
+
+
+Q-26. Write An SQL Query To Show Only Odd Rows From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-27. Write An SQL Query To Show Only Even Rows From A Table.
+Ans.
+
+The required query is:
+
+
+Q-28. Write An SQL Query To Clone A New Table From Another Table.
+Ans.
+
+The general query to clone a table with data is:
+
+
+The general way to clone a table without information is:
+
+
+An alternate way to clone a table (for MySQL) without is:
+
+
+ 
+
+Q-29. Write An SQL Query To Fetch Intersecting Records Of Two Tables.
+Ans.
+
+The required query is:
+
+
+ 
+
+Q-30. Write An SQL Query To Show Records From One Table That Another Table Does Not Have.
+Ans.
+
+The required query is:
+
+
+
+Q-31. Write An SQL Query To Show The Current Date And Time.
+Ans.
+
+Following MySQL query returns the current date:
+
+
+Following MySQL query returns the current date and time:
+
+SELECT NOW();
+Following SQL Server query returns the current date and time:
+
+
+Following Oracle query returns the current date and time:
+
+
+ 
+
+Q-32. Write An SQL Query To Show The Top N (Say 10) Records Of A Table.
+Ans.
+
+Following MySQL query will return the top n records using the LIMIT method:
+
+Following SQL Server query will return the top n records using the TOP command:
+
+Following Oracle query will return the top n records with the help of ROWNUM:
+
+
+ 
+
+Q-33. Write An SQL Query To Determine The Nth (Say N=5) Highest Salary From A Table.
+Ans.
+
+The following MySQL query returns the nth highest salary:
+
+The following SQL Server query returns the nth highest salary:
+
+ 
+
+Q-34. Write An SQL Query To Determine The 5th Highest Salary Without Using TOP Or Limit Method.
+Ans.
+
+The following query is using the correlated subquery to return the 5th highest salary:
+
+
+Use the following generic method to find nth highest salary without using TOP or limit.
+
+
+
+Q-35. Write An SQL Query To Fetch The List Of Employees With The Same Salary.
+Ans.
+
+The required query is:
+
+
+ 
+
+Q-36. Write An SQL Query To Show The Second Highest Salary From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-37. Write An SQL Query To Show One Row Twice In Results From A Table.
+Ans.
+
+The required query is:
+
+
+ 
+
+Q-38. Write An SQL Query To Fetch Intersecting Records Of Two Tables.
+Ans.
+
+The required query is:
+
+
+Q-39. Write An SQL Query To Fetch The First 50% Records From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-40. Write An SQL Query To Fetch The Departments That Have Less Than Five People In It.
+Ans.
+
+The required query is:
+
+ 
+
+Q-41. Write An SQL Query To Show All Departments Along With The Number Of People In There.
+Ans.
+
+The following query returns the expected result:
+
+
+
+Q-42. Write An SQL Query To Show The Last Record From A Table.
+Ans.
+
+The following query will return the last record from the Worker table:
+
+
+
+Q-43. Write An SQL Query To Fetch The First Row Of A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-44. Write An SQL Query To Fetch The Last Five Records From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-45. Write An SQL Query To Print The Name Of Employees Having The Highest Salary In Each Department.
+Ans.
+
+The required query is:
+
+
+
+Q-46. Write An SQL Query To Fetch Three Max Salaries From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-47. Write An SQL Query To Fetch Three Min Salaries From A Table.
+Ans.
+
+The required query is:
+
+
+
+Q-48. Write An SQL Query To Fetch Nth Max Salaries From A Table.
+Ans.
+
+The required query is:
+
+
+Q-49. Write An SQL Query To Fetch Departments Along With The Total Salaries Paid For Each Of Them.
+Ans.
+
+The required query is:
+
+
+
+Q-50. Write An SQL Query To Fetch The Names Of Workers Who Earn The Highest Salary.
+Ans.
+
+The required query is:
+
+
+
